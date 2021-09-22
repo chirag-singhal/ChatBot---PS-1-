@@ -6,7 +6,7 @@ click==7.1.2
 dataclasses==0.7
 defusedxml==0.6.0
 diff-match-patch==20181111
-Django==3.0.7
+Django==3.1.13
 django-import-export==2.2.0
 djangorestframework==3.11.0
 et-xmlfile==1.0.1
